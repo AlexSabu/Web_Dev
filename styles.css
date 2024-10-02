@@ -294,8 +294,13 @@
 }
 
 #main_image{
-    height: 80%;   
-    width: 80%;
+    height: 60%;   
+    width: 60%;
+}
+
+#main_image:hover{
+    height: 63%;
+    width: 63%;
 }
 
 @media screen and (max-width: 768px){
